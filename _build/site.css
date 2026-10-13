@@ -29,6 +29,8 @@ ul,ol{margin:0 0 1em;padding-left:1.25em}
 .nav a:hover,.nav a[aria-current]{background:var(--brand-soft);color:var(--brand);text-decoration:none}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:12px 20px;border-radius:12px;font-weight:700;border:2px solid transparent;cursor:pointer;line-height:1.2}
 .btn:hover{text-decoration:none}
+.btn-wa,.btn-wa svg{color:#fff}
+.btn svg{flex:none}
 .btn-wa{background:var(--wa);color:#fff;box-shadow:0 6px 18px rgba(21,128,61,.25)}
 .btn-wa:hover{background:var(--wa-2)}
 .btn-dark{background:var(--dark);color:#fff}
@@ -134,7 +136,7 @@ a.card:hover{text-decoration:none;transform:translateY(-2px);box-shadow:0 14px 3
 @media(min-width:800px){.ftr-grid{grid-template-columns:1.4fr 1fr 1fr 1fr}}
 .ftr .logo{color:#fff}
 .ftr .legal{margin-top:36px;padding-top:20px;border-top:1px solid rgba(255,255,255,.12);display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;font-size:.8125rem;color:rgba(255,255,255,.5)}
-.wa-float{position:fixed;right:18px;bottom:18px;z-index:60;width:56px;height:56px;border-radius:50%;background:var(--wa);display:grid;place-items:center;box-shadow:0 10px 30px rgba(21,128,61,.4)}
+.wa-float{color:#fff;position:fixed;right:18px;bottom:18px;z-index:60;width:56px;height:56px;border-radius:50%;background:var(--wa);display:grid;place-items:center;box-shadow:0 10px 30px rgba(21,128,61,.4)}
 .wa-float:hover{background:var(--wa-2)}
 .toc{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 20px;margin-bottom:28px;font-size:.9375rem}
 .toc ol{margin:8px 0 0;padding-left:1.2em;columns:2;column-gap:24px}
