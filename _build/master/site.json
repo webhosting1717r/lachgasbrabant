@@ -1,0 +1,39 @@
+{
+ "key": "brabant",
+ "brand": "Lachgas Brabant",
+ "host": "lachgasbrabant.nl",
+ "site": "https://lachgasbrabant.nl",
+ "word": "Brabant",
+ "wa": "31630159143",
+ "mail": "info@lachgasbrabant.nl",
+ "keyword": "lachgas brabant",
+ "alt_names": [
+  "lachgasbrabant.nl"
+ ],
+ "home_title": "Lachgas Brabant | Lachgas bestellen, bezorgd via WhatsApp",
+ "html_lang": "nl",
+ "hl": "nl",
+ "lang": "nl-NL",
+ "locale": "nl_NL",
+ "country": "NL",
+ "payment": "Contant, Tikkie",
+ "same_as": [],
+ "extra_service": [],
+ "family": "prov",
+ "domain": "https://lachgasbrabant.nl",
+ "area_dirs": [
+  "lachgas-bezorgen"
+ ],
+ "city": null,
+ "region": "Noord-Brabant",
+ "region_long": "heel Noord-Brabant",
+ "geo_region": "NL-NB",
+ "place": "Noord-Brabant",
+ "geo": null,
+ "theme": "#1c1917",
+ "accent": "#b4350f",
+ "og": "/assets/og-lachgas-brabant.png",
+ "logo": "/assets/icon-512.png",
+ "apple": "/assets/apple-touch-icon.png",
+ "og_alt": "Lachgas Brabant: lachgas bestellen in heel Noord-Brabant, bezorgd via WhatsApp"
+}
